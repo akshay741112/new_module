@@ -1,6 +1,6 @@
 variable "region" {
     type = string
-    default = "ap-south"
+    default = "ap-southeast"
   
 }
 variable "ami" {
