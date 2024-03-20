@@ -6,7 +6,6 @@ provider "aws" {
 }
 module "my_instance01" {
     source = "./instance"
-    instance_count = var.instance_count
     ami = var.ami
     instance_type = var.instance_type
     key_name = var.key_name
