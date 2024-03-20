@@ -33,6 +33,6 @@ variable "cidr_block" {
 
 }
 variable "tag" {
-    tags
+    type = map
   
 }
