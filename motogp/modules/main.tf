@@ -12,6 +12,6 @@ module "my_instance01" {
     tags = var.tags
   
 }
-module "name" {
+module "m" {
   
 }
