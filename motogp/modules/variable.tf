@@ -1,11 +1,11 @@
 variable "region" {
     type = string
-    default = "ap-southeast-"
+    default = "ap-southeast-1"
   
 }
 variable "ami" {
     type = string
-    default = "ami-080e1f13689e07408"
+    default = "ami-0fe630eb857a6ec83"
   
 }
 variable "instance_type" {
