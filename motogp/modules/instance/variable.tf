@@ -1,6 +1,4 @@
-variable "instance_count" {
-  
-}
+
 variable "ami" {
   
 }
