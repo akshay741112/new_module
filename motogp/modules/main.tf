@@ -15,6 +15,6 @@ module "my_instance01" {
 module "my_vpc" {
     source = "./vpc"
     cidr_block = var.cidr_block
-    t
+    tag = var.tags
   
 }
