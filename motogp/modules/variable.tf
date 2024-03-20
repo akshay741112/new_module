@@ -3,11 +3,6 @@ variable "region" {
     default = "us-east-1"
   
 }
-variable "instance_count" {
-    type = number
-    default = 2
-  
-}
 variable "ami" {
     type = string
     default = "ami-080e1f13689e07408"
