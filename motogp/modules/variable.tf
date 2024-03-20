@@ -26,6 +26,7 @@ variable "tags" {
     }
   
 }
-variable "" {
+variable "cidr_block" {
+    type = 
   
 }
