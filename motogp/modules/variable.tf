@@ -32,10 +32,3 @@ variable "cidr_block" {
   
 
 }
-variable "tag" {
-    type = map
-    default = {
-        name = "my_vpc_07"
-    }
-  
-}
