@@ -34,5 +34,6 @@ variable "cidr_block" {
 }
 variable "tag" {
     type = map
+    default = 
   
 }
