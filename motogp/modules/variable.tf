@@ -27,6 +27,7 @@ variable "tags" {
   
 }
 variable "cidr_block" {
-    type = 
+    type = string
+    default = "value"
   
 }
