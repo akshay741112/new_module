@@ -32,6 +32,6 @@ variable "cidr_block" {
   
 
 }
-variable "" {
+variable "tag" {
   
 }
