@@ -26,3 +26,6 @@ variable "tags" {
     }
   
 }
+variable "" {
+  
+}
