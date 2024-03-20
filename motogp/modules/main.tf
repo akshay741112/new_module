@@ -12,6 +12,7 @@ module "my_instance01" {
     tags = var.tags
   
 }
-module "m" {
+module "my_vpc" {
+    source = "value"
   
 }
