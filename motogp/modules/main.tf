@@ -13,6 +13,7 @@ module "my_instance01" {
   
 }
 module "my_vpc" {
-    source = "value"
+    source = "./vpc"
+    cidr_block = 
   
 }
